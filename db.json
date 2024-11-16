@@ -1,18 +1,18 @@
 {
     "users": [
         {
-            "id": 1,
-            "name": "Nastya",
-            "surname": "Goncharenko",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd6dqM7kLmezT7hsopN0i-QUiIUz6qZxx0w&s",
-            "balance": 1500
+            "id": 45767,
+            "name": "WquDnn",
+            "surname": "WqulbDanny",
+            "photo_url": "https://localhistory.org.ua/media/images/naive-gates_4.max-1920x900.format-webp.webp",
+            "balance": 10
         },
         {
-            "id": 2,
-            "name": "Yaryna",
-            "surname": "Hordynska",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd6dqM7kLmezT7hsopN0i-QUiIUz6qZxx0w&s",
-            "balance": 1500
+            "id": 123123,
+            "name": "Wqulb",
+            "surname": "Danny",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLVumD18TlF795kWkHma_knNE7KwthoTcSQ&sЄ",
+            "balance": 25789
         }
     ]
 }
